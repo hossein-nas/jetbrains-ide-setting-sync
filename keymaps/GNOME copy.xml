@@ -1,0 +1,15 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="ShowFilterPopup" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="UsageGrouping.FileStructure" />
+</keymap>
