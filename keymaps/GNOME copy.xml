@@ -4,6 +4,8 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt minus" />
   </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl alt w" second-keystroke="w" />
   </action>
@@ -29,7 +31,6 @@
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="ExpandRegionRecursively">
@@ -43,6 +44,12 @@
     <keyboard-shortcut first-keystroke="shift alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
+  <action id="Git.Commit.Stage" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="shift d" />
   </action>
   <action id="IntroduceField" />
   <action id="NextProjectWindow" />
