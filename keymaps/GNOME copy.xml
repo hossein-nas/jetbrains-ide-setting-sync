@@ -19,6 +19,7 @@
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt subtract" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
   </action>
@@ -54,6 +55,10 @@
   <action id="IntroduceField" />
   <action id="NextProjectWindow" />
   <action id="PreviousProjectWindow" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="r" />
+  </action>
   <action id="ShowFilterPopup" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
