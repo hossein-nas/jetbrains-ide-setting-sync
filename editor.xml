@@ -6,4 +6,21 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <TypeScript.ts.chain.hints>
+        <Settings>
+          <option name="uniqueTypeCount" value="3" />
+        </Settings>
+      </TypeScript.ts.chain.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
+  </component>
 </application>
