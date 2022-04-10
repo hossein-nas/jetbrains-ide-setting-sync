@@ -20,6 +20,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt subtract" />
   </action>
   <action id="Diff.ApplyLeftSide" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
   </action>
