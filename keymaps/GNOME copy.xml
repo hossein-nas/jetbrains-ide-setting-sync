@@ -52,13 +52,22 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt equals" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="Git.Commit.Stage" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="shift d" />
   </action>
+  <action id="GotoLine" />
   <action id="IntroduceField" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
   <action id="NextProjectWindow" />
   <action id="PreviousProjectWindow" />
   <action id="RenameElement">
@@ -66,6 +75,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="r" />
   </action>
   <action id="ShowFilterPopup" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
   <action id="ToggleFullScreen">
