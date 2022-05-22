@@ -1,0 +1,96 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl alt w" second-keystroke="w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="w" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="Git.Commit.Stage" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="shift d" />
+  </action>
+  <action id="GotoLine" />
+  <action id="IntroduceField" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="PreviousProjectWindow" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="r" />
+  </action>
+  <action id="ShowFilterPopup" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="UsageGrouping.FileStructure" />
+</keymap>
