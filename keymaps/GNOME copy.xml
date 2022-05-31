@@ -57,6 +57,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="Git.Commit.Stage" />
+  <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -64,11 +65,20 @@
   </action>
   <action id="GotoLine" />
   <action id="IntroduceField" />
+  <action id="MaximizeEditorInSplit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
   <action id="NextProjectWindow" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
   <action id="PreviousProjectWindow" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -81,6 +91,9 @@
   </action>
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" second-keystroke="back_slash" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -90,6 +103,9 @@
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
   </action>
   <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.FileStructure" />
