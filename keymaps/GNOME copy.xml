@@ -25,9 +25,11 @@
   <action id="Diff.ApplyLeftSide" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
@@ -59,6 +61,7 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Commit.Stage" />
   <action id="GotoCustomRegion" />
   <action id="GotoDeclaration">
@@ -67,6 +70,7 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="shift d" />
   </action>
   <action id="GotoLine" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="IntroduceField" />
   <action id="MaximizeEditorInSplit">
     <keyboard-shortcut first-keystroke="shift ctrl alt m" />
@@ -101,6 +105,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
