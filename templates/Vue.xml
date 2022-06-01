@@ -9,7 +9,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="vue:com:ts" value="&lt;template&gt;&#10;  &lt;div class=&quot;$NAME$&quot;&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;import { defineComponent } from '@nuxtjs/composition-api';&#10;&#10;export default defineComponent({&#10;  name: '$NAME$',&#10;&#10;  setup(props) {&#10;    $1$&#10;    return {&#10;      //&#10;    };&#10;  },&#10;});&#10;&lt;/script&gt;&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="vue:com:ts" value="&lt;template&gt;&#10;  &lt;div class=&quot;$NAME$&quot;&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;import { defineComponent } from '@nuxtjs/composition-api';&#10;&#10;export default defineComponent({&#10;  name: '$NAME$',&#10;&#10;  setup(props) {&#10;    $1$&#10;    return {&#10;      //&#10;    };&#10;  },&#10;});&#10;&lt;/script&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

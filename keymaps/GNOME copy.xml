@@ -19,6 +19,9 @@
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt subtract" />
   </action>
+  <action id="CollapseTreeNode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" second-keystroke="c" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
