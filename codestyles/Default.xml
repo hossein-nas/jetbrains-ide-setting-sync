@@ -1,5 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80,120" />
+  <JSCodeStyleSettings version="0">
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </TypeScriptCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
