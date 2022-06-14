@@ -123,4 +123,8 @@
   </action>
   <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="ViewMainMenu">
+    <keyboard-shortcut first-keystroke="alt m" second-keystroke="alt m" />
+  </action>
 </keymap>
