@@ -1,7 +1,10 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="$USER_HOME$/.volta/bin/node">
-      <version-cache version="16.14.2" last-modified="1650668121000" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/home/yektanet/.volta/tools/image/node/16.14.2/bin/node">
+      <version-cache version="16.14.2" last-modified="1647553970000" />
     </local-interpreter>
   </component>
 </application>
