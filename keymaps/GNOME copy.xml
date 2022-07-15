@@ -26,7 +26,9 @@
   <action id="CollapseTreeNode">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" second-keystroke="c" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -41,6 +43,7 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
@@ -52,6 +55,7 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt r" />
@@ -79,8 +83,20 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="JupyterNotebookMoveCellDownCommandModeAction">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="JupyterNotebookMoveCellUpCommandModeAction">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="MaximizeEditorInSplit">
     <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -102,6 +118,11 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="r" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShowFilterPopup" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -123,6 +144,9 @@
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
   </action>
@@ -132,4 +156,6 @@
   <action id="ViewMainMenu">
     <keyboard-shortcut first-keystroke="alt m" second-keystroke="alt m" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
