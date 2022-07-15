@@ -1,6 +1,10 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80,120" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_QUOTE_STYLE" value="None" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="JSX_ATTRIBUTE_VALUE" value="None" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
