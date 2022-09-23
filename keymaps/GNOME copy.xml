@@ -33,6 +33,9 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ShowDiff" />
+  <action id="Django.RunManageTaskAction">
+    <keyboard-shortcut first-keystroke="ctrl alt windows" second-keystroke="r" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
     <keyboard-shortcut first-keystroke="ctrl alt k" />
