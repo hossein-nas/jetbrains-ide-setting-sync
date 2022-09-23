@@ -118,7 +118,9 @@
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
-  <action id="RenameElement" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl alt r" second-keystroke="r" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt d" />
