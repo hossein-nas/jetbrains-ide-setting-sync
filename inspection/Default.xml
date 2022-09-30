@@ -4,4 +4,11 @@
   <inspection_tool class="PyInterpreterInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Project Files" level="INFORMATION" enabled="true" />
   </inspection_tool>
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="organizer.forms.SlugCleanMixin.cleaned_data" />
+      </list>
+    </option>
+  </inspection_tool>
 </profile>
