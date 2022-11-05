@@ -50,6 +50,10 @@
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
   </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorIndentLineOrSelection">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -58,6 +62,10 @@
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
@@ -86,6 +94,7 @@
   </action>
   <action id="GotoLine" />
   <action id="Hg.Commit.And.Push.Executor" />
+  <action id="InsertLiveTemplate" />
   <action id="IntroduceField" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
