@@ -59,7 +59,9 @@
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="EditorJoinLines" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="e" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
