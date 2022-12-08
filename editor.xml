@@ -3,6 +3,9 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -23,7 +26,9 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
