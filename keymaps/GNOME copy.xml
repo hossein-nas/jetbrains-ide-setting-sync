@@ -44,9 +44,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
-  <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
-  </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
   </action>
@@ -145,6 +143,7 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
   </action>
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
