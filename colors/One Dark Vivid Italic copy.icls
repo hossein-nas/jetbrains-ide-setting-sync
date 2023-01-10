@@ -4,17 +4,17 @@
     <property name="created">2022-03-27T17:28:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2023-01-05T22:26:10</property>
+    <property name="modified">2023-01-10T23:16:31</property>
     <property name="originalScheme">_@user_One Dark Vivid Italic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
     <option name="EDITOR_FONT_NAME" value="MonoLisa-Regular" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Vazir" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
